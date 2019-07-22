@@ -1,0 +1,11 @@
+TAK NAXYU:
+...Apps(easy):
+ps | grep %nameprog%
+get info from /proc/$2 if found
+get info if i will kill that shit
+...Delete all shit from priv-app/app and install open source cool stuff(Mediam)/(Hard if i not have no settings, no caller, etc...(will create own) )
+
+
+Create backup as firmware for phone(i not know how to do, but for a while hard(maybe after googling easy or medium))
+
+...?!?!?PROFIT?! ili i4o 4o?!
